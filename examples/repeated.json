@@ -1,0 +1,29 @@
+{
+  "reference": "stripes.pgm",
+  "moving": "stripes-shifted.pgm",
+  "fit_height_px": 22,
+  "max_shift_px": 8,
+  "max_checkpoint_error_px": 1,
+  "checkpoints": [
+    {
+      "reference": [
+        8,
+        23
+      ],
+      "moving": [
+        11,
+        23
+      ]
+    },
+    {
+      "reference": [
+        16,
+        24
+      ],
+      "moving": [
+        19,
+        24
+      ]
+    }
+  ]
+}

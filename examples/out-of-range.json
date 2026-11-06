@@ -1,0 +1,29 @@
+{
+  "reference": "reference.pgm",
+  "moving": "moving.pgm",
+  "fit_height_px": 22,
+  "max_shift_px": 4,
+  "max_checkpoint_error_px": 1,
+  "checkpoints": [
+    {
+      "reference": [
+        15,
+        27
+      ],
+      "moving": [
+        20,
+        24
+      ]
+    },
+    {
+      "reference": [
+        22,
+        28
+      ],
+      "moving": [
+        27,
+        25
+      ]
+    }
+  ]
+}
